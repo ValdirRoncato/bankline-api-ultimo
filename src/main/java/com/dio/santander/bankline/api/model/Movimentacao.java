@@ -69,5 +69,9 @@ public class Movimentacao {
 	public void setTipo(MovimentacaoTipo tipo) {
 		this.tipo = tipo;
 	}
+	public void setDataHora(LocalDateTime now) {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }
