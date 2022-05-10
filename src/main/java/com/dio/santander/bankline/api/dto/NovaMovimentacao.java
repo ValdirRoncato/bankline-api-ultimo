@@ -1,9 +1,5 @@
 package com.dio.santander.bankline.api.dto;
 
-import javax.persistence.Column;
-import javax.persistence.EnumType;
-import javax.persistence.Enumerated;
-
 import com.dio.santander.bankline.api.model.MovimentacaoTipo;
 
 public class NovaMovimentacao {
