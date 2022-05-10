@@ -13,7 +13,6 @@ import com.dio.santander.bankline.api.repository.CorrentistaRepository;
 import com.dio.santander.bankline.api.repository.MovimentacaoRepository;
 
 
-
 @Service
 public class MovimentacaoService {
 	@Autowired
